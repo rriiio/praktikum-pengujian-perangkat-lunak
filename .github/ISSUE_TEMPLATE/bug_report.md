@@ -1,38 +1,38 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Laporkan masalah teknis, kerusakan fungsi (bug), atau error sistem
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+# [BUG] - <Judul Bug yang Singkat dan Jelas>
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## ENVIRONMENT (Lingkungan Pengujian)
+**URL / Environment:** [Misal: Staging, Production]
+**Platform / OS:** [Misal: Windows 11, Android 13]
+**Browser / App Version:** [Misal: Google Chrome v120.0]
+**Test Account / Data:** [Misal: Akun problem_user]
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## STEPS TO REPRODUCE (Langkah Reproduksi)
+1. Langkah pertama...
+2. Langkah kedua...
+3. Langkah ketiga...
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## EXPECTED RESULT (Hasil yang Diharapkan)
+<Jelaskan bagaimana sistem seharusnya berjalan>
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## ACTUAL RESULT (Hasil Aktual)
+<Jelaskan apa yang sebenarnya terjadi>
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## CLASSIFICATION & IMPACT
+**Severity:** [Critical / Major / Minor / Trivial]
+**Priority:** [P1 / P2 / P3 / P4]
+**Status:** [Needs-Triage / Todo / Active / Ready for QA / Closed / Rejected]
+**Business Impact:** <Dampak terhadap bisnis>
+**Workaround:** [Ada / Tidak Ada] -> <Jika ada, sebutkan>
 
-**Additional context**
-Add any other context about the problem here.
+## ATTACHMENT & TRACEABILITY
+**Related Test Case:** [TC-xxx / Exploratory Testing]
+**Attachment:** [Screenshot / Screen Recording / Log Error]
