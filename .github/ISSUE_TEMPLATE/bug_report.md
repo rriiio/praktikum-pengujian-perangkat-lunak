@@ -1,12 +1,3 @@
----
-name: Bug report
-about: Laporkan masalah teknis, kerusakan fungsi (bug), atau error sistem
-title: ''
-labels: ''
-assignees: ''
-
----
-
 # [BUG] - <Judul Bug yang Singkat dan Jelas>
 
 ## ENVIRONMENT (Lingkungan Pengujian)
