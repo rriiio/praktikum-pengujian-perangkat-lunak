@@ -1,38 +1,38 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Laporkan masalah teknis, kerusakan fungsi (bug), atau error sistem yang ditemukan
+  selama pengujian
 title: ''
 labels: ''
-assignees: ''
+assignees: rriiio
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+# [BUG] - <Judul Bug yang Singkat dan Jelas>
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## ENVIRONMENT (Lingkungan Pengujian)
+**URL	/	Environment:**	[Misal:	Staging,	Production,
+://saucedemo.com]
+**Platform / OS:** [Misal: Windows 11, Android 13, iOS 17]
+**Browser / App Version:** [Misal: Google Chrome v120.0, Aplikasi v2.1.0]
+**Test Account / Data:** [Misal: Akun problem_user, email testing]
+## STEPS TO REPRODUCE (Langkah Reproduksi)
+1. Langkah pertama...
+2. Langkah kedua...
+3. Langkah ketiga...
+*(Tuliskan secara berurutan dari membuka aplikasi hingga bug muncul)*
+## EXPECTED RESULT (Hasil yang Diharapkan)
+<Jelaskan bagaimana sistem seharusnya berjalan dengan benar sesuai dokumentasi/kebutuhan bisnis>
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## ACTUAL RESULT (Hasil Aktual)
+<Jelaskan apa yang sebenarnya terjadi atau kesalahan yang muncul di sistem saat ini>
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+## CLASSIFICATION & IMPACT
+**Severity:** [ Critical / Major / Minor / Trivial ]
+**Priority:** [ P1 / P2 / P3 / P4 ]
+**Status:** [Needs-Triage, Todo, Active / In Progress, Ready for QA, Closed, Rejected]
+**Business	Impact:**	<Jelaskan	dampak	kerugian	bug	ini terhadap bisnis atau kenyamanan pengguna>
+**Workaround:** [ Ada / Tidak Ada ] -> <Jika ada, sebutkan solusi sementara bagi pengguna>
+## ATTACHMENT & TRACEABILITY
+**Related	Test	Case:**	[Misal:	TC-001,	atau	Exploratory Testing]
+**Attachment:** [Masukkan Link/Nama File Screenshot, Screen Recording, atau Log Error di sini]
